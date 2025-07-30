@@ -1,8 +1,8 @@
 import {useState} from 'react';
 import {CORE_CONCEPTS, EXAMPLES} from "./data.js"; 
-import Header from "./Components/Header.jsx"; 
-import CoreConcepts from "./Components/CoreConcepts.jsx"; 
-import TabButton from "./Components/TabButton.jsx"; 
+import Header from "./Header.jsx"; 
+import CoreConcepts from "./CoreConcepts.jsx"; 
+import TabButton from "./TabButton.jsx"; 
 import { jsx } from 'react/jsx-runtime';
 
 
